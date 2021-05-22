@@ -1,4 +1,4 @@
-package Ticketautomat;
+package de.hawhh.informatik.matai.pm1_labor.Ticketautomat;
 
 import java.util.Map;
 

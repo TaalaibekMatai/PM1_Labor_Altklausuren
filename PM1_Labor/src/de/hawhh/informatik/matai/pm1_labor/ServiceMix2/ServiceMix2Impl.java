@@ -1,4 +1,4 @@
-package ServiceMix2;
+package de.hawhh.informatik.matai.pm1_labor.ServiceMix2;
 
 public class ServiceMix2Impl implements ServiceMix2
 {
